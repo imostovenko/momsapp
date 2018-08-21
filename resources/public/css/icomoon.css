@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?1kzfiq');
+  src:  url('../fonts/icomoon.eot?1kzfiq#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?1kzfiq') format('truetype'),
+    url('../fonts/icomoon.woff?1kzfiq') format('woff'),
+    url('../fonts/icomoon.svg?1kzfiq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nice:before {
+  content: "\e900";
+}
+.icon-cool:before {
+  content: "\e901";
+}
+.icon-good:before {
+  content: "\e902";
+}
+.icon-vegan:before {
+  content: "\e903";
+}
+.icon-kid-toilet:before {
+  content: "\e906";
+}
+.icon-indoor-playarea:before {
+  content: "\e907";
+}
+.icon-meds:before {
+  content: "\e908";
+}
+.icon-stroller-access:before {
+  content: "\e909";
+}
+.icon-sofa:before {
+  content: "\e90a";
+}
+.icon-animators:before {
+  content: "\e90b";
+}
+.icon-mini-zoo:before {
+  content: "\e917";
+}
+.icon-kids-menu:before {
+  content: "\e918";
+}
+.icon-outdoor-playarea:before {
+  content: "\e91b";
+}
+.icon-kids-parties:before {
+  content: "\e90c";
+}
+.icon-parking:before {
+  content: "\e90d";
+}
+.icon-art-stuff:before {
+  content: "\e90e";
+}
+.icon-pacifier:before {
+  content: "\e90f";
+}
+.icon-map:before {
+  content: "\e910";
+}
+.icon-pets-friendly:before {
+  content: "\e911";
+}
+.icon-baby-siter:before {
+  content: "\e912";
+}
+.icon-baby-bed:before {
+  content: "\e913";
+}
+.icon-video-games:before {
+  content: "\e914";
+}
+.icon-to-go:before {
+  content: "\e915";
+}
+.icon-baby-chair:before {
+  content: "\e916";
+}
+.icon-terrase:before {
+  content: "\e919";
+}
+.icon-lactation:before {
+  content: "\e91a";
+}
+.icon-change-table:before {
+  content: "\e905";
+}
+.icon-children:before {
+  content: "\e904";
+}
+
