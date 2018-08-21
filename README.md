@@ -1,6 +1,6 @@
-# my-moms
+# momsapp
 
-Simple projects/tickets management web-app with bootstrap GUI.
+Simple "search for places" web-app.
 
 ## Overview
 
